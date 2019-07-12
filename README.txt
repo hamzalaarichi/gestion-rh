@@ -1,2 +1,6 @@
-je deteste la programmation et les etudes avec widad 
-dsdsds
+ HEAD
+je suis un fichier README
+
+modifier
+hhhhh
+causer-conflit
